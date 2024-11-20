@@ -3,15 +3,17 @@ Beats by Dr. Dre Externship Program
 Overview
 This 5-week externship program, designed in collaboration with Beats by Dr. Dre, is tailored for aspiring data analysts like me to develop critical skills in Python, data analysis, and sentiment analysis. I will tackle real-world business challenges through task-based projects.
 
-Learning Objectives
+# Learning Objectives
 By completing this program, I will gain:
 
 Proficiency in Python: Use data science libraries for sentiment analysis.
 Exploratory Data Analysis (EDA): Uncover trends in datasets using statistical tools.
 Natural Language Processing (NLP): Apply AI tools like Gemini AI for consumer feedback analysis.
 Data Visualization Skills: Create impactful visual representations of insights.
-Program Structure
+
+# Program Structure
 The program consists of five projects:
+
 | Project                          | Duration | Description                                                                                       |
 |----------------------------------|----------|---------------------------------------------------------------------------------------------------|
 | Project 1: Toolkit Introduction | Week 1   | Introduction to Python basics, data manipulation, and program setup.                             |
@@ -21,27 +23,32 @@ The program consists of five projects:
 | Project 5: Capstone Project      | Week 5   | Integration of insights to create strategic business recommendations.                            |
 
 
-Project	Duration	Description
+# Project	Duration	Description
 1. Toolkit Introduction & Setup	Week 1	Learn Python basics, explore basic functionalities, and start data manipulation.
 2. Data Gathering & Cleaning	Week 2	Collect and clean data using Python, ensuring it’s analysis-ready.
 3. EDA & Sentiment Analysis	Week 3	Conduct EDA and use Python to categorize consumer feedback through sentiment analysis.
 4. Consumer Insights through AI	Week 4	Utilize AI tools to extract themes and generate insights from customer reviews.
 5. Capstone Project	Week 5	Integrate all insights to present strategic recommendations for brand strategies and product improvement.
-Expectations
+   
+# Expectations
 Time Commitment: I will spend 10-15 hours per week on this program.
 Self-Paced Learning: I will review materials and meet project deadlines at my own pace.
 Collaboration: I will use Slack to connect with peers and Program Managers for guidance.
 Problem Solving: I will navigate ambiguity and think critically to tackle challenges.
-Communication and Support
+
+# Communication and Support
 I will leverage Slack to connect with the externship community:
 
 Slack Channel	Purpose
-#project-1-toolkit	Questions or discussions about Project 1, introductions, and networking.
-#project-2-datagathering&cleaning	Support for Project 2 tasks.
-#project-3-eda&sentimentanalysis	Queries about Project 3 tasks.
-#project-4-consumerinsights	Support for Project 4 tasks and AI tool usage.
-#project-5-capstoneproject	Discussions about the Capstone Project.
-First Step
+| **Slack Channel**                  | **Purpose**                                                       | **Meeting Details**                        |
+|------------------------------------|-------------------------------------------------------------------|-------------------------------------------|
+| **#project-1-toolkit**             | Questions or discussions about Project 1, introductions, and networking. | Toolkit introduction meeting: Week 1     |
+| **#project-2-datagathering&cleaning** | Support for Project 2 tasks.                                      | Data gathering meeting: Week 2           |
+| **#project-3-eda&sentimentanalysis** | Queries about Project 3 tasks.                                    | EDA and sentiment analysis meeting: Week 3 |
+| **#project-4-consumerinsights**     | Support for Project 4 tasks and AI tool usage.                    | Consumer insights meeting: Week 4        |
+| **#project-5-capstoneproject**      | Discussions about the Capstone Project.                           | Capstone wrap-up meeting: Week 5         |
+
+# First Step
 To get started:
 
 I will join Slack and familiarize myself with the channels.
